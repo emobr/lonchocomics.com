@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+      margin: 0px;
+      
+    }
+    .container {
+    display: flex;
+    
+      
+    }
+    body{
+    background-color: rgb(255, 75, 75);
+    
+      
+    }
+    .card{
+    background: white;
+      width: 200px;
+      height: 500px;
+      margin: 10px;
+      text-align: center;
+    }
+    card
+    {
+    background-color: aqua;
+      height: 150px;
+      background-size: cover;
+      
+    }
+    img{
+    width: 200px;
+    
+    
+      
+    }
+    
+    
+
+
+    a{
+text-decoration: none;
+border: dashed burlywood;
+background-color: blue;
+
+
+
+    }
+    
+    
+      
+    
+    
+    
